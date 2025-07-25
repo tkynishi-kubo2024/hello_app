@@ -1,0 +1,13 @@
+user.name=tkynishi-kubo
+user.email=tkynishi-kubo2024@outlook.jp
+gpg.program=/.codespaces/bin/gh-gpgsign
+init.defaultbranch=main
+credential.helper=/.codespaces/bin/gitcredential_github.sh
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/tkynishi-kubo2024/hello_app
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
